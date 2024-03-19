@@ -1,4 +1,4 @@
-<img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1519547432570x648548603290692000%2FScreenshot%25202018-02-25%2520at%252009.24.39.png?w=&h=&auto=compress&dpr=1&fit=max">
+<img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1519547432570x648548603290692000%2FScreenshot%25202018-02-25%2520at%252009.24.39.png?w=&h=&auto=compress&dpr=1&fit=max" alt="Imagem" style="display: block; margin: auto;">
 
 # Via CEP - XML
 
